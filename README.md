@@ -8,7 +8,7 @@
 </p>
  
 ### ⚙️ GitHub Analytics 
-<!-- <div align="center"> width="49%" -->
+<!-- <div align="center"> width="48%"-->
 <div>
   <a href="https://github.com/gs-davi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gs-davi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
@@ -30,8 +30,12 @@
   
 ## 📌 Social Links
 <div>
-  <a href="https://www.instagram.com/davi.gsouza/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
-  <a href="https://twitter.com/davi_gsouza" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /></a>
+  <a href="https://www.instagram.com/davi.gsouza/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://twitter.com/davi_gsouza" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
+  </a>
  	<a href="https://www.twitch.tv/gsdavs" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank" />
   </a>
