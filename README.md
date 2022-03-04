@@ -6,12 +6,13 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=gs-davi&color=blue" alt="Profile views" /> 
 </p>
- 
+
 ### ⚙️ GitHub Analytics 
-<!-- <div align="center"> width="48%"-->
-<div>
+<!-- width="48%" -->
+<div align="left"> 
   <a href="https://github.com/gs-davi">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=gs-davi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /><img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gs-davi&layout=compact&langs_count=7&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gs-davi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gs-davi&layout=compact&langs_count=7&theme=algolia" />
 </div>
   
 ## 💻 Techs
