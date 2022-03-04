@@ -7,10 +7,10 @@
   <img src="https://komarev.com/ghpvc/?username=gs-davi&color=blue" alt="Profile views" /> 
 </p>
 
-### ⚙️ GitHub Analytics 
+## ⚙️ GitHub Analytics 
 <!-- width="48%" -->
 <div align="left"> 
-  <a href="https://github.com/gs-davi">
+<!--   <a href="https://github.com/gs-davi"> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gs-davi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gs-davi&layout=compact&langs_count=7&theme=algolia" />
 </div>
