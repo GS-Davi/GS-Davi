@@ -3,8 +3,8 @@
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 </h2>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=gs-davi&color=blue" alt="Profile views" /> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=gs-davs&label=PROFILE+VIEWS" alt="Profile views" /> 
 </p>
 
 ### ⚙️ GitHub Analytics
