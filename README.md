@@ -3,13 +3,15 @@
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 </h2>
 
-<!-- <p align="left">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=gs-davs&label=PROFILE+VIEWS" alt="Profile views" /> 
-</p> -->
+</p>
 
 ### ⚙️ GitHub Analytics
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gs-davi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <!--   
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gs-davi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gs-davi&layout=compact&langs_count=7&theme=algolia" />
 </div>
   
