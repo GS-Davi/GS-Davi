@@ -7,8 +7,8 @@
 
 ## ⚙️ GitHub Analytics
 <div align="left">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gs-davi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gs-davi&layout=compact&langs_count=7&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gs-davi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 </div>
   
 ## 💻 Skills
@@ -19,10 +19,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  
-<!--   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
-<!--   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" /> -->
-</div><br>
+</div>
   
 ## 📌 Socials
 <div align="left">
