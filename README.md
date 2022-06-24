@@ -1,7 +1,5 @@
-Hi 👋 I'm Davi Souza
-===========================
-Front-end Developer
--------------------
+<h2>Hi 👋 I'm Davi Souza</h2>
+<h3>Front-end Developer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gs-davs&color=blue" alt="Profile views" /> 
