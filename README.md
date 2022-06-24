@@ -24,7 +24,7 @@
 </div>
   
 ## 📌 Socials
-<div align="left">
+<div style="display: inline_block">
   <a href="http://www.instagram.com/davi.gsouza/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="30" />
   </a> 
