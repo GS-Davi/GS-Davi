@@ -40,8 +40,6 @@
   <a href="https://www.linkedin.com/in/davi-gsouza/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="30" />
   </a>
-</div>
-
-<div align="left">
+  
   ![Snake animation](https://github.com/gs-davi/gs-davi/blob/output/github-contribution-grid-snake.svg)
 </div>
