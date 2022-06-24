@@ -5,14 +5,16 @@
   <img src="https://komarev.com/ghpvc/?username=gs-davs&color=blue" alt="Profile views" /> 
 </p>
 
-<h2>⚙️ GitHub Analytics</h2>
+
 <div align="left">  
+  ## ⚙️ GitHub Analytics
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gs-davi&layout=compact&langs_count=7&theme=algolia" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gs-davi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 </div>
   
-## 💻 Skills
+
 <div style="display: inline_block">
+  ## 💻 Skills
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
@@ -21,8 +23,9 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
   
-## 📌 Socials
+
 <div align="left">
+  ## 📌 Socials
   <a href="http://www.instagram.com/davi.gsouza/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
   </a> 
