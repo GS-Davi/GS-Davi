@@ -25,19 +25,19 @@
   
 ## 📌 Socials
 <div>
-  <a href="http://www.instagram.com/davi.gsouza/" target="_blank" rel="noreferrer" style="text-decoration: none">
+  <a href="http://www.instagram.com/davi.gsouza/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="30" />
   </a> 
-  <a href="https://www.twitter.com/davi_gsouza" target="_blank" rel="noreferrer" style="text-decoration: none">
+  <a href="https://www.twitter.com/davi_gsouza" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="30" />
   </a> 
-  <a href="https://www.twitch.tv/gsdavs" target="_blank" rel="noreferrer" style="text-decoration: none">
+  <a href="https://www.twitch.tv/gsdavs" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="40" height="30" />
   </a>
-  <a href="https://www.github.com/GS-Davi" target="_blank" rel="noreferrer" style="text-decoration: none">
+  <a href="https://www.github.com/GS-Davi" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="30" />
   </a> 
-  <a href="https://www.linkedin.com/in/davi-gsouza/" target="_blank" rel="noreferrer" style="text-decoration: none">
+  <a href="https://www.linkedin.com/in/davi-gsouza/" target="_blank" rel="noreferrer" style="display: none">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="30" />
   </a> 
   
