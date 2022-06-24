@@ -4,7 +4,7 @@ Front-end Developer
 -------------------
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue" alt="Profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=gs-davs&color=blue" alt="Profile views" /> 
 </p>
 
 ### ⚙️ GitHub Analytics
