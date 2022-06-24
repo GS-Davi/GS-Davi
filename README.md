@@ -24,9 +24,9 @@
 </div>
   
 ## 📌 Socials
-<div>
+<div align="left">
   <a href="http://www.instagram.com/davi.gsouza/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="30" target="_blank" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="30" />
   </a> 
   <a href="https://www.twitter.com/davi_gsouza" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="30" />
@@ -39,7 +39,9 @@
   </a> 
   <a href="https://www.linkedin.com/in/davi-gsouza/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="30" />
-  </a> 
-  
+  </a>
+</div>
+
+<div align="left">
   ![Snake animation](https://github.com/gs-davi/gs-davi/blob/output/github-contribution-grid-snake.svg)
 </div>
