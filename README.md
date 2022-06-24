@@ -1,10 +1,10 @@
-<h2 align="left">
-  Hi, I'm Davi Souza
-  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
-</h2>
+Hi 👋 I'm Davi Souza
+===========================
+Front-end Developer
+-------------------
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gs-davs&label=PROFILE+VIEWS" alt="Profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue" alt="Profile views" /> 
 </p>
 
 ### ⚙️ GitHub Analytics
@@ -18,11 +18,11 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   
 <!--   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
-<!--   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> -->
 <!--   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" /> -->
 </div><br>
   
@@ -47,11 +47,6 @@
   ![Snake animation](https://github.com/gs-davi/gs-davi/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-Hi 👋 My name is Davi Souza
-===========================
-
-Front-end Developer
--------------------
 
 <a href="https://www.github.com/GS-Davi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/GS-Davi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/gsdavs" target="_blank" rel="noreferrer"><img
